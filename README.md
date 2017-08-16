@@ -1,2 +1,2 @@
-# C-submissions
-Hackerrank C++ solutions
+# Hackerrank C++ submissions
+My hackerrank C++ solutions
