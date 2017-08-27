@@ -1,0 +1,22 @@
+// Basic Data Types
+
+#include <iostream>
+#include <cstdio>
+using namespace std;
+
+int main() {
+    int a;
+    long int b;
+    char c;
+    float d;
+    double e;
+    
+    cin>>a>>b>>c>>d>>e;
+    cout<<a<<endl;
+    cout<<b<<endl;
+    cout<<c<<endl;
+    printf("%3f",d);
+    cout<<"\n";
+    printf("%9lf",e);
+    return 0;
+}
